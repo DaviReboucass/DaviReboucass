@@ -6,15 +6,22 @@ Estudante do curso de Ciência da Computação pela UFS, já trabalhei como cons
 
 -⚽Torcedor apaixonado pelo **Clube de Regatas Vasco da Gama**
 
--💼[Sempre aberto a novas experiencias no mercado](www.linkedin.com/in/davi-rebouças)
-
---🖥️Conhecimento junior em:
+-🖥️Conhecimento junior em:
 
 <div style='display: inline'>
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+
+
+
+## Voce pode me encontrar por aqui :)
+
+<a href="https://www.linkedin.com/in/davi-rebouças">
+  <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+
 <!--
 **DaviReboucass/DaviReboucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
