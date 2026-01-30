@@ -2,7 +2,7 @@
 Estudante do curso de Ciência da Computação pela UFS, já trabalhei como consultor de vendas, como gestor de logística e com atendimento ao usuário
 
 
--👨‍💻**Estudante**
+-👨‍💻**Estudante** 5/8
 
 -⚽Torcedor apaixonado pelo **Clube de Regatas Vasco da Gama**
 
